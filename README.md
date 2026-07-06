@@ -6,9 +6,9 @@
 
 🔭 Me encuentro buscando trabajo como desarrollador.
 
-📫 Contacto:
-    Correo: andresdavid1804@gmail.com 
-    Movil: +57 3042372919
+#📫 Contacto:
+    - Correo: andresdavid1804@gmail.com 
+    - Movil: +57 3042372919
 <!--
 **ADSD1804/ADSD1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
