@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hola! 👋
 
+Soy Andres David Soto Duque, tecnologo desarrollador web junior y futuro ingeniero en desarrollo de software.
+
+Tengo 24 años y actualmente soy auxiliar de sistemas en Fundación Frisby.
+
+Me encuentro buscando trabajo como desarrollador.
 <!--
 **ADSD1804/ADSD1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
