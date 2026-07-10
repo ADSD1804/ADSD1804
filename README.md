@@ -1,6 +1,6 @@
 ## Hola! 👋
 
-😄 Soy Andres David Soto Duque, tecnologo desarrollador web junior y futuro ingeniero en desarrollo de software, tengo conocimientos en PHP vanilla y con el framework de Laravel, también manejo JavaScript, Python y Java, estos dos ultimos enfocados en lógica de programación.
+😄 Soy Andres David Soto Duque, tecnologo desarrollador web junior y futuro ingeniero en desarrollo de software, tengo conocimientos en PHP vanilla y con el framework de Laravel, también manejo JavaScript, TypeScript, Python y Java, estos dos ultimos enfocados en lógica de programación.
 
 🌱 Actualmente estoy aprendiendo React utilizando Vite.
 
